@@ -1,6 +1,7 @@
-.NavLink{
+.goHome{
     border: 1px solid #ccc;
+    border-radius: 4px;
     color: #fff;
     text-decoration: none;
-    background-color: #282c34;
+    background-color: blue;
 }
